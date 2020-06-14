@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<center> But simply writing something does not duplicate </center>
