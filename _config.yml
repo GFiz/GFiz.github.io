@@ -22,7 +22,7 @@ title: This is a test
 email: g.fiz.pontiveros@gm@il.com
 description: # this means to ignore newlines until "baseurl:"
   Just testing this thing.
-baseurl: "/GFizgithub.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  GFiz
 
