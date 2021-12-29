@@ -3,6 +3,6 @@ layout: post
 categories: test
 ---
 
-Just testing writting some math here
+Just testing writing some math here
 
-$\int f dx$
+$$\int f dx$$
